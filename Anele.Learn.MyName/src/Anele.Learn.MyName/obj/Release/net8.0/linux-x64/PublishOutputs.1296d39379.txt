@@ -1,0 +1,6 @@
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\bin\Release\net8.0\publish\Anele.Learn.MyName.deps.json
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\bin\Release\net8.0\publish\Anele.Learn.MyName.runtimeconfig.json
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\bin\Release\net8.0\publish\Anele.Learn.MyName.pdb
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\bin\Release\net8.0\publish\Anele.Learn.MyName.dll

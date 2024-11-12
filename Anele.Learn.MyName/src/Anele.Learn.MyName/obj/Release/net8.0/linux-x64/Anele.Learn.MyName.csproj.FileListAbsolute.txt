@@ -1,0 +1,17 @@
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\bin\Release\net8.0\linux-x64\Anele.Learn.MyName.deps.json
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\bin\Release\net8.0\linux-x64\Anele.Learn.MyName.runtimeconfig.json
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\bin\Release\net8.0\linux-x64\Anele.Learn.MyName.dll
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\bin\Release\net8.0\linux-x64\Anele.Learn.MyName.pdb
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\bin\Release\net8.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\bin\Release\net8.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\obj\Release\net8.0\linux-x64\Anele.Learn.MyName.csproj.AssemblyReference.cache
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\obj\Release\net8.0\linux-x64\Anele.Learn.MyName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\obj\Release\net8.0\linux-x64\Anele.Learn.MyName.AssemblyInfoInputs.cache
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\obj\Release\net8.0\linux-x64\Anele.Learn.MyName.AssemblyInfo.cs
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\obj\Release\net8.0\linux-x64\Anele.Learn.MyName.csproj.CoreCompileInputs.cache
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\obj\Release\net8.0\linux-x64\Anele.Le.6FC37B0E.Up2Date
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\obj\Release\net8.0\linux-x64\Anele.Learn.MyName.dll
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\obj\Release\net8.0\linux-x64\refint\Anele.Learn.MyName.dll
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\obj\Release\net8.0\linux-x64\Anele.Learn.MyName.pdb
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\obj\Release\net8.0\linux-x64\Anele.Learn.MyName.genruntimeconfig.cache
+C:\Users\x510932\source\repos\Anele.Learn.MyName\src\Anele.Learn.MyName\obj\Release\net8.0\linux-x64\ref\Anele.Learn.MyName.dll
